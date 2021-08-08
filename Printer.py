@@ -7,3 +7,4 @@ def printer():
 printer()
 print("From kkhatua98")
 print("Changed Done")
+print("Changed from local")
